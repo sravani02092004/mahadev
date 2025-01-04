@@ -1,0 +1,25 @@
+.demo{
+    color:black;
+    
+}
+body{
+    color:aqua;
+    background-color:white;
+    font-size: medium;
+}
+div{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+strong{
+    color: rgb(17, 211, 114);
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.n{
+    color: blueviolet;
+}
+.m{
+    color: black;
+}
